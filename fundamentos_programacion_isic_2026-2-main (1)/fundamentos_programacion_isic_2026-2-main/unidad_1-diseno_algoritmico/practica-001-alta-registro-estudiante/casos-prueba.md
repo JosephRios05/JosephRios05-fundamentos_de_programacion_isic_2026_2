@@ -4,7 +4,7 @@ Se ejecutan 3 escenarios diferentes para verificar la exactitud de las operacion
 
 | Caso | Valor de Entradas Ingresadas | Resultado Calculado / Esperado | Resultado Obtenido en PSeInt | Estatus (PASÓ / FALLÓ) |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Entrada A: ...<br>Entrada B: ... | Salida A: ...<br>Salida B: ... | Salida A: ...<br>Salida B: ... | **PASÓ** |
+| **1** | Entrada A: numeroControl = 2025001<br>Entrada B: ... | Salida A: ...<br>Salida B: ... | Salida A: ...<br>Salida B: ... | **PASÓ** |
 | **2** | Entrada A: ...<br>Entrada B: ... | Salida A: ...<br>Salida B: ... | Salida A: ...<br>Salida B: ... | **PASÓ** |
 | **3** | Entrada A: ...<br>Entrada B: ... | Salida A: ...<br>Salida B: ... | Salida A: ...<br>Salida B: ... | **PASÓ** |
 
