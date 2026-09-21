@@ -3,9 +3,9 @@
 ## Información General
 * **Asignatura:** Fundamentos de Programación
 * **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
-* **Estudiante:** [Tu Nombre Completo]
-* **Número de Control:** [Tu Número de Control]
-* **Fecha de Entrega:** [DD/MM/AAAA]
+* **Estudiante:** [ Joseph Gabriel Garcia Rios ]
+* **Número de Control:** [ 260112206 ]
+* **Fecha de Entrega:** [20/09/2026]
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
@@ -15,4 +15,5 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+El algoritmo captura los datos básicos de un estudiante de nuevo ingreso utilizando variables de tipo Entero, Cadena, Real y Lógico.
+Posteriormente muestra una ficha escolar con la información registrada. La soluciónutiliza una estructura secuencial sin emplear condicionales ni ciclos.
