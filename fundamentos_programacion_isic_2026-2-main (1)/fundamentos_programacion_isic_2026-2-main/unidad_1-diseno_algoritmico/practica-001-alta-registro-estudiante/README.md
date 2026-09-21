@@ -16,4 +16,4 @@
 
 ## Resumen de la Solución
 El algoritmo captura los datos básicos de un estudiante de nuevo ingreso utilizando variables de tipo Entero, Cadena, Real y Lógico.
-Posteriormente muestra una ficha escolar con la información registrada. La soluciónutiliza una estructura secuencial sin emplear condicionales ni ciclos.
+Posteriormente muestra una ficha escolar con la información registrada. La solución utiliza una estructura secuencial sin emplear condicionales ni ciclos.
